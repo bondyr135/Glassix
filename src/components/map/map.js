@@ -18,7 +18,6 @@ const MapComponent = (props) => {
             </div>
         </div>
     )
-
 }
 
 export default MapComponent;
