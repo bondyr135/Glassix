@@ -1,0 +1,8 @@
+
+.footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* grid-template: "footer"; */
+    display: flex;
+    align-self: center;
+    margin: auto;
+}
